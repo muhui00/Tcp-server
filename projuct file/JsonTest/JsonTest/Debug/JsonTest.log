@@ -1,4 +1,0 @@
-﻿  test.cpp
-C:\Users\huch1\Desktop\文件\项目\JsonTest\JsonTest\test.cpp(41,20): warning C4018: “<”: 有符号/无符号不匹配
-C:\Users\huch1\Desktop\文件\项目\JsonTest\JsonTest\test.cpp(62,22): warning C4018: “<”: 有符号/无符号不匹配
-  JsonTest.vcxproj -> C:\Users\huch1\Desktop\文件\项目\JsonTest\Debug\JsonTest.exe
