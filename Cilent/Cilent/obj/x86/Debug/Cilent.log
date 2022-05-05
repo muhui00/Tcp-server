@@ -1,0 +1,16 @@
+﻿  正在验证源
+  正在远程复制源
+  正在启动远程生成
+  正在编译源:
+  ClientOP.cpp
+C:\Users\huch1\Desktop\项目1\Cilent\Cilent\ClientOP.cpp(29,40): warning : conversion from ‘Json::Value::Int’ {aka ‘int’} to ‘short unsigned int’ may change value [-Wconversion]
+C:\Users\huch1\Desktop\项目1\Cilent\Cilent\ClientOP.cpp(29,40): warning :    29 |  m_info.serverPort = root["Port"].asInt();
+C:\Users\huch1\Desktop\项目1\Cilent\Cilent\ClientOP.cpp(29,40): warning :       |                      ~~~~~~~~~~~~~~~~~~^~
+  main.cpp
+  Message.pb.cc
+  RequestCodec.cpp
+  RequestFactory.cpp
+  RespondCodec.cpp
+  RespondFactory.cpp
+  正在链接对象
+  Cilent.vcxproj -> C:\Users\huch1\Desktop\项目1\Cilent\Cilent\bin\x86\Debug\Cilent.out
